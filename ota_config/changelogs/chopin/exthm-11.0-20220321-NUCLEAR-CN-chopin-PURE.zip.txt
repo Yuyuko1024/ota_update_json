@@ -1,7 +1,11 @@
-修复了蓝牙音频
-修复了高清通话
-初始化PURE构建
+修复了有线耳机支持
+修复了支付宝/微信指纹支付
+添加回自动亮度开关
+userdebug构建，不会闪红框
+添加MTK EngineerMode组件
 
-Initial PURE Build
-fix bluetooth audio
-fix MTK IMS VoLTE
+Fix wired headphone support
+Fix Alipay / WeChat pay fingerprint payment
+Add automatic brightness switch
+userdebug Build
+Add MTK EngineerMode
