@@ -1,5 +1,0 @@
-初始化GMS构建
-暂时修复蓝牙音频
-
-Initial GMS Build
-fix bluetooth audio
