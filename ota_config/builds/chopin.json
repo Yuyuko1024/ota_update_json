@@ -1,11 +1,11 @@
 {
-    "filename":"exthm-11.0-20220321-NUCLEAR-CN-chopin-PURE.zip",
-    "size":1293732814,
+    "filename":"exthm-11.0-20220327-NUCLEAR-CN-chopin-PURE.zip",
+    "size":1385688821,
     "error": false,
-    "datetime":1647848549,
-    "filehash":"d0d4222b20e5acbee1bac770702919af",
-    "id":"8a946f14e9535cfb7f47dabca8572d7edc531e0e748ec32dfedfa2e16d67771d",
-    "url":"https://dl.lmfty.com/chopin/exthm-11.0-20220321-NUCLEAR-CN-chopin-PURE.zip",
+    "datetime":1648366677,
+    "filehash":"47aaa16aeee661e35c01d760ba722689",
+    "id":"aa61a3b57257e68d8a0e8bb4c6aab6b2d560f617173bb07f4f70e88b396b2e25",
+    "url":"https://exthm.lmfty.com/ota/exthm-11.0-20220327-NUCLEAR-CN-chopin-PURE.zip",
     "version": "11.0",
     "website_url": "https://exthmui.cn"
   }
